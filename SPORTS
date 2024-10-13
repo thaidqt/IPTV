@@ -1,4 +1,39 @@
-#EXTM3U
+#EXTM3U url-tvg="http://trada.info/epg.xml; http://lichphatsong.xyz/schedule/epg.xml";
+
+#---------------Phim------------------#
+#EXTINF:-1 tvg-id="hbohd" group-title="Phim Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://thvip.site/360/159/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://thvip.site/360/160/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/235/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/239/index.m3u8
+#EXTINF:-1 tvg-id="manhd" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://thvip.site/360/237/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://thvip.site/360/162/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 
 #---------------90P------------------#
 
@@ -11,46 +46,58 @@ https://obevcimanyd179569584.thapcam.link/OOHAILIFEq6s0cYRyudH4Q/Fv2lucGIbhPi2ca
 #EXTINF:-1 group-title="VeBoTV", MayZ2
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/F6Ayxlwd-B4idXtyISXY8w/Fv2lucGIbhPi2caWYvF5Lg/1728208619706/live/Z2HD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", BanhCuon
+#EXTINF:-1 group-title="VeBoTV",BLV Bánh Cuốn
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/Oq7f0sduazilSydHe4eB6w/Fv2lucGIbhPi2caWYvF5Lg/1728228723508/live/cuonHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", BunCha
+#EXTINF:-1 group-title="VeBoTV", BLV Bún Chả
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://obevcimanyd179569584.thapcam.link/kK3OpmNdClAPul22Yqv4cw/Fv2lucGIbhPi2caWYvF5Lg/1728241034912/live/chaHD/chunklist.m3u
-#EXTINF:-1 group-title="VeBoTV", MyTom
+https://obevcimanyd179569584.thapcam.link/kK3OpmNdClAPul22Yqv4cw/Fv2lucGIbhPi2caWYvF5Lg/1728241034912/live/chaHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Mỳ Tôm
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/JCcSqx19FtwzjY-YVVJM4Q/Fv2lucGIbhPi2caWYvF5Lg/1728237784437/live/myHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", MeoU
+#EXTINF:-1 group-title="VeBoTV", BLV Phở Bò
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/PuMGAp4ligXYx1ShS1-9eg/Fv2lucGIbhPi2caWYvF5Lg/1728501405226/live/phoHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Méo Ú
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/OGXR3Avb_z2vZWWk1ty_Kg/Fv2lucGIbhPi2caWYvF5Lg/1728211580257/live/meoHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiGia
+#EXTINF:-1 group-title="VeBoTV", BLV Người Già
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/7rWacga5LxL3dsY-ui3bUQ/Fv2lucGIbhPi2caWYvF5Lg/1728211665792/live/oldHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiHuc
+#EXTINF:-1 group-title="VeBoTV", BLV Người Húc
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/iZPIvAyxWy--VzcheMdY6g/Fv2lucGIbhPi2caWYvF5Lg/1728211392408/live/hucHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", TrauGacBep
+#EXTINF:-1 group-title="VeBoTV", BLV Trâu Gác Bếp
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://obevcimanyd179569584.thapcam.link/7IycZ3z6E9De76PtjUYQ-g/Fv2lucGIbhPi2caWYvF5Lg/1728210620667/live/trauHD/chunklist.m3u
-#EXTINF:-1 group-title="VeBoTV", NguoiCun
+https://obevcimanyd179569584.thapcam.link/7IycZ3z6E9De76PtjUYQ-g/Fv2lucGIbhPi2caWYvF5Lg/1728210620667/live/trauHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Người Sắt
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://obevcimanyd179569584.thapcam.link/9enOtlcrNLuOvZIIvQG5Wg/Fv2lucGIbhPi2caWYvF5Lg/1728240925522/live/cunHD/chunklist.m3u
-#EXTINF:-1 group-title="VeBoTV", NguoiLong
+https://obevcimanyd179569584.thapcam.link/jNTyo4MLD5NJ-HbpHffSlQ/Fv2lucGIbhPi2caWYvF5Lg/1728762719338/live/satHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Hawkeye
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/6Qho4OQJe2n5IPCcDEBARQ/Fv2lucGIbhPi2caWYvF5Lg/1728762806387/live/hawHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Người Cún
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/9enOtlcrNLuOvZIIvQG5Wg/Fv2lucGIbhPi2caWYvF5Lg/1728240925522/live/cunHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Người Lông
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/Pml8u41Ip4X9DmA9sMw22A/Fv2lucGIbhPi2caWYvF5Lg/1728228801614/live/longHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiSoi
+#EXTINF:-1 group-title="VeBoTV", BLV Người Sói
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/Ltumi4jr6emDIGZmovxBcA/Fv2lucGIbhPi2caWYvF5Lg/1728238004741/live/soiHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiBao
+#EXTINF:-1 group-title="VeBoTV", BLV Người Báo
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/L_Np_wGTvedzkD7Ioo0mHg/Fv2lucGIbhPi2caWYvF5Lg/1728376608089/live/baoHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiCao
+#EXTINF:-1 group-title="VeBoTV", BLV Người Cáo
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/_M0nTb9erJHZ0JK4jKPWRQ/Fv2lucGIbhPi2caWYvF5Lg/1728239034555/live/caoHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiPhep
+#EXTINF:-1 group-title="VeBoTV", BLV Người Phép
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/zhmt69D0U2qyOAxcIpTevw/Fv2lucGIbhPi2caWYvF5Lg/1728239121218/live/phepHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeBoTV", NguoiNui
+#EXTINF:-1 group-title="VeBoTV", BLV Người Mõm
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/mRm8A59nATM6e-VV0-fKuw/Fv2lucGIbhPi2caWYvF5Lg/1728501256185/live/momHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Người Núi
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/gNd9KyFYeBs96rc5Huv4QQ/Fv2lucGIbhPi2caWYvF5Lg/1728237861172/live/nuiHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeBoTV", May10
@@ -81,76 +128,100 @@ https://obevcimanyd179591709.thapcam.link/ay-vo6jEMVCIo59DRLlBFg/Fv2lucGIbhPi2ca
 
 #---------------CA KHIA------------------#
 
-#EXTINF:-1 group-title="CAKHIA", BLV PHO
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Phò
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phohd1.flv
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cakhiahd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV BIP
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Bịp
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV CAY
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Cay
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV SUN
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Sún
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@sunhd1.flv
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV PAO
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Páo
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV CHUOI
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Chuối
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV ALU
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Lú
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV LOI
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Lôi
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV LU
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Lử
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV HEO
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Heo
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
 
+#EXTINF:-1 group-title="CAKHIA", BLV H+
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV Thợ Lặn
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
+
 #---------------GA VANG------------------#
 
-#EXTINF:-1 group-title="GAVANG", BLV GAMAP
+#EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Bướng
 #EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
-https://2604399733.global.cdnfastest.com/live/52080fea897c4d01a0e54c01d0b6c758_720/index.m3u8
+
+#EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Phệ
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+https://stm02bc74813616.vplay.anycastapnic.com/live/bd12154f0e4a4311812424e67b1f425f_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
+#EXTINF:-1 group-title="GAVANG", BLV Gà Mập
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+#https://2604399733.global.cdnfastest.com/live/52080fea897c4d01a0e54c01d0b6c758_720/index.m3u8
+https://stm02bc74813616.vplay.anycastapnic.com/live/8f154ecc5e724135896f75e6bf9645f3_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
+#EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Sắc
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+https://stm02bc74813616.vplay.anycastapnic.com/live/61af43089abf4626b826ab0f8d0a3c2f_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
+#EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Nghịch
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+https://stm02bc74813616.vplay.anycastapnic.com/live/4eae7d2c5ae240e882304f0b89684d67_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
+#EXTINF:-1 group-title="GAVANG", BLV Gà Chu Du
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+https://stm02bc74813616.vplay.anycastapnic.com/live/b657fed714ca44d4996c3d7e48d31c51_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
 
 #---------------QUAY TAY------------------#
 
-#EXTINF:-1 group-title="QUAYTAY", BLV BATGIOI
+#EXTINF:-1 group-title="QUAYTAY", BLV Bát Giới
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@momhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUAYTAY", BLV SATANG
+#EXTINF:-1 group-title="QUAYTAY", BLV Sa Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUAYTAY", BLV NGOKHONG
+#EXTINF:-1 group-title="QUAYTAY", BLV Ngộ Không
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phanghd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUAYTAY", BLV DUONGTANG
+#EXTINF:-1 group-title="QUAYTAY", BLV Đường Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phuhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUAYTAY", BLV BACHLONG
+#EXTINF:-1 group-title="QUAYTAY", BLV Bach Long
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@bachlongmahd1/chunklist.m3u8
 
@@ -170,19 +241,19 @@ https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key\u003d1728310286-0-0
 #EXTINF:-1 group-title="SOCOLA", BLV SATIVA
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key\u003d1728309986-0-0-9e2396fcfbfff6b0b515c258fac89096
-#EXTINF:-1 group-title="SOCOLA", BLV TABIENGIOI
+#EXTINF:-1 group-title="SOCOLA", BLV Tạ Biên Giới
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key\u003d1728310106-0-0-59b1ebef2c8d65f5dd7fc1a15ca35af4
-#EXTINF:-1 group-title="SOCOLA", BLV CRBUOI
+#EXTINF:-1 group-title="SOCOLA", BLV CRBưởi
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key\u003d1728310106-0-0-c57c4411d2b292a7fb3c13a49c54111f
 #EXTINF:-1 group-title="SOCOLA", BLV ODIN
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912098_lhd.m3u8?auth_key\u003d1728310166-0-0-ee0b46f4225dd7c2dbec8d2d27ee02c8
-#EXTINF:-1 group-title="SOCOLA", BLV SUNGAMUP
+#EXTINF:-1 group-title="SOCOLA", BLV Sùng A Múp
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key\u003d1728310226-0-0-ae014b6b6bd436550ee1203e612f99f9
-#EXTINF:-1 group-title="SOCOLA", BLV CUCAI
+#EXTINF:-1 group-title="SOCOLA", BLV Củ Cải
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key\u003d1728308846-0-0-f229923abb9a192f08f050be967d3472
 #EXTINF:-1 group-title="SOCOLA", BLV KUDO
@@ -191,13 +262,13 @@ https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key\u003d1728310346-0-0
 #EXTINF:-1 group-title="SOCOLA", BLV JINDO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-488346_lhd.m3u8?auth_key\u003d1728356966-0-0-ce6ad400f586ad0f75a6704069248b53
-#EXTINF:-1 group-title="SOCOLA", BLV APAO
+#EXTINF:-1 group-title="SOCOLA", BLV A Páo
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key\u003d1728310406-0-0-1a5fda40c5893e3d4f96f16e74f63564
 #EXTINF:-1 group-title="SOCOLA", BLV TAP
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key\u003d1728310586-0-0-0fe7b94d25d24fb6cce7978d52fc79b2
-#EXTINF:-1 group-title="SOCOLA", BLV TAMMAO
+#EXTINF:-1 group-title="SOCOLA", BLV Tam Mao
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key\u003d1728356126-0-0-cc5fd5ecd525f5ad298aea7da0917f38
 #EXTINF:-1 group-title="SOCOLA", BLV TYPN
@@ -259,10 +330,3 @@ https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001728214500-0-0
 #EXTINF:-1 group-title="RAKHOI", BLV HENRY
 #EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
 https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001728214654-0-0-519b8123185ca057fe4a3d5b945293aa
-
-
-
-
-
-
-
