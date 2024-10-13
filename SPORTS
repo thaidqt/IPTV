@@ -185,7 +185,7 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Bướng
 #EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
-
+https://stm02bc74813616.vplay.anycastapnic.com/live/d77fa08cb89d4119a988184df8ad9d2c_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
 #EXTINF:-1 group-title="GAVANG", BLV Gà Siêu Phệ
 #EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
 https://stm02bc74813616.vplay.anycastapnic.com/live/bd12154f0e4a4311812424e67b1f425f_720/chunklist.m3u8?ref=stm02bc74813616.stream.anycastapnic.com
