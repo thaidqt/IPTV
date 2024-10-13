@@ -78,14 +78,12 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/vtvcab1/index.m3u8
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (VNPT)
-http://113.160.152.31:5050/udp/232.84.3.78:11584
+http://14.187.170.42:3008/udp/232.84.3.78:11584
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/175/index.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (VNPT)
-http://113.160.152.31:5050/udp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
+http://14.187.170.42:3008/udp/232.84.3.242:11374
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -161,15 +159,15 @@ http://thaicam1.ddns.net:4084/udp/225.1.1.112:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (FPT)
 http://118.71.130.182:2052/udp/225.1.1.112:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (VNPT)
-http://113.160.152.31:5050/udp/232.84.2.138:10648
+http://14.187.170.42:3008/udp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
 http://thaicam1.ddns.net:4084/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
 http://thaicam1.ddns.net:4084/udp/225.1.2.86:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (VNPT)
-http://113.160.152.31:5050/udp/232.84.3.117:10654
+http://14.187.170.42:3008/udp/232.84.3.117:10654
 #EXTINF:0 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits (VNPT)
-http://113.160.152.31:5050/udp/232.84.1.77:8436
+http://14.187.170.42:3008/udp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế (HD)",ABC AUSTRALIA (HD 8Mbps)
 http://thaicam1.ddns.net:4084/udp/225.1.2.21:30120
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế (HD)",Động Vật Hành Tinh (HD 8Mbps)
@@ -183,7 +181,7 @@ http://thaicam1.ddns.net:4084/udp/225.1.2.225:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (FPT)
 http://118.71.130.182:2052/udp/225.1.2.225:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (VNPT)
-http://113.160.152.31:5050/udp/232.84.2.140:10660
+http://14.187.170.42:3008/udp/232.84.2.140:10660
 #EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
 http://thaicam1.ddns.net:4084/udp/225.1.2.146:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
