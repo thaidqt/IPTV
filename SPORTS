@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-id="hbohd" group-title="Phim Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+
 #EXTINF:-1 tvg-id="axnhd" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -15,6 +16,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
 #EXTINF:-1 tvg-id="woman" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
@@ -203,31 +205,31 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Bát Giới
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/momhd1/chunklist.m3u8
+https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Sa Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/taohd1/chunklist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Ngộ Không
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/phanghd1/chunklist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Đường Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Bach Long Mã
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/bachlongmahd1/chunklist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Ngưu Ma Vương
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201787025882&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Hồng Hà Nhi
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghanhihd1/chunklist.m3u8
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201791232897&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Nhị Lang Thần
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
