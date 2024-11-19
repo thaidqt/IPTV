@@ -84,6 +84,9 @@ https://obevcimanyd179569584.thapcam.link/_M0nTb9erJHZ0JK4jKPWRQ/Fv2lucGIbhPi2ca
 #EXTINF:-1 group-title="VeBoTV", BLV Người Phép
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/zhmt69D0U2qyOAxcIpTevw/Fv2lucGIbhPi2caWYvF5Lg/1728239121218/live/phepHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Người Đá
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/jD0vzvplzaO_qP5jV729OA/Fv2lucGIbhPi2caWYvF5Lg/1732035890836/live/daHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeBoTV", BLV Người Mõm
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/mRm8A59nATM6e-VV0-fKuw/Fv2lucGIbhPi2caWYvF5Lg/1728501256185/live/momHD/chunklist.m3u8
@@ -147,6 +150,10 @@ https://obevcimanyd179591709.thapcam.link/ay-vo6jEMVCIo59DRLlBFg/Fv2lucGIbhPi2ca
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cakhiahd1/chunklist.m3u8
 
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Lử
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
+
 #EXTINF:-1 group-title="CAKHIA", BLV Giàng A Bịp
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
@@ -175,13 +182,13 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Lử
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
-
 #EXTINF:-1 group-title="CAKHIA", BLV Giàng A Heo
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV Giàng A Cỏ
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="CAKHIA", BLV H+
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -196,27 +203,31 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Bát Giới
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@momhd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/momhd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Sa Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/taohd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Ngộ Không
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phanghd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/phanghd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Đường Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phuhd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Bach Long Mã
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@bachlongmahd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/bachlongmahd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="QUAYTAY", BLV Ngưu Ma Vương
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Hồng Hà Nhi
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@honghanhihd1/chunklist.m3u8
+https://qtcdn.livestreameuro.live/live/honghanhihd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="QUAYTAY", BLV Nhị Lang Thần
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
