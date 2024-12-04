@@ -118,6 +118,12 @@ https://obevcimanyd179569584.thapcam.link/R-KYGp2FSikyr_tYMwp4ZA/Fv2lucGIbhPi2ca
 #EXTINF:-1 group-title="VeBoTV", BLV Người Cá
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/YFX2lkExRcRdxmOmYqwkPA/Fv2lucGIbhPi2caWYvF5Lg/1729670964622/live/caHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Cá Hề
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/kt8tkjfBzsYSgk_gpUWlDA/Fv2lucGIbhPi2caWYvF5Lg/1733334776390/live/heHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeBoTV", BLV Tai Lung
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179569584.thapcam.link/eDoCKm25pcREOzOdtcLNVw/Fv2lucGIbhPi2caWYvF5Lg/1733335045100/live/lungHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeBoTV", BLV Người Thương
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179569584.thapcam.link/GZjD4coMxxbIZXZonebNKg/Fv2lucGIbhPi2caWYvF5Lg/1730652313177/live/thuongHD/chunklist.m3u8
@@ -158,7 +164,7 @@ https://live-eu-pzybaks9eeliv.thapcam.link/a832bae01f8d3831ea8408f4b5d653e4/1729
 https://obevcimanyd179591709.thapcam.link/ay-vo6jEMVCIo59DRLlBFg/Fv2lucGIbhPi2caWYvF5Lg/1728210853383/live/may28/chunklist.m3u8
 
 
-#---------------CA KHIA------------------#
+#---------------CA KHIA (https://cakhiaaz.com/)------------------#
 
 #EXTINF:-1 group-title="CAKHIA", BLV Giàng A Phò
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -211,6 +217,11 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8
 #EXTINF:-1 group-title="CAKHIA", BLV Thợ Lặn
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV Thợ Xây
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8
+
 
 
 #---------------Lấy Kinh------------------#
