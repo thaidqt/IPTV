@@ -199,6 +199,18 @@ https://s3.phim1280.tv/20240402/wOQAVPyz/3000kb/hls/index.m3u8
 https://s3.phim1280.tv/20240402/cPUAVMxr/3000kb/hls/index.m3u8
 
 #----------------------Phim Lẻ-------------------#
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s1.phim1280.tv/20231017/SkHyXmPv/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/NGkjinoAB7guYpVAmBmt-A4dVc3wJc5GWbif1iZki6DDls58D2SvrUKWRphxcuEpa6Sbxw3ag6d8bJOiN-cCJA==/h264/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/ZYun7QWxy3tyz4OH5M8nQIi2T6e4PJenL7GmcyVJthDBYmF5haXubNkJ5eNWXCchYswYF7sXcocolfpfsq7UHw==/h264/index-f1-v1-a1.m3u8
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Họa Giang Hồ: Bất Lương Soái
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1080.opstream4.com/20240201/51104_bf774d40/3000k/hls/mixed.m3u8
