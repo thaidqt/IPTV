@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml; http://lichphatsong.xyz/schedule/epg.xml";
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml";
 
 #---------------Phim------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="Phim Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
