@@ -159,8 +159,25 @@ https://s3.phim1280.tv/20240323/kLub0tVM/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s3.phim1280.tv/20240402/NbiWdWan/3000kb/hls/index.m3u8
-
-
+#----------------------Thicha Tái Sinh-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/X5ff5Sxz1gkvLmO24dtGkRuXV76rfzSnMiKIqumaaZu3WpMt9y5ZBE7YM+42iMw+otrslLFM5EnRKI61pKArYQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/lnwHlExZhw9pfSzOCDBa4i8gY2ErezY93NMR3jU7PSMXrAteI9w6f32peEfJb9bNS1g65SrFdgH2CI9nFDpbPg==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/vGc5VVwya6x8gMBM9nPwKFid4eaVVhRwQqqFBjlW-wvY+2+TxU6V5ptZcwOSpIUZt9AusON7R46xcsyTiDn2KQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/ti5z4x1RnJf75N3TT4Rdf6upEhW1QLpvxkEQ9QGXh+tj814u5ZTlCCy0oCc4CcQTLgGqIZx2eXJs9-4BWMNADQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/0AqGd8DxmZpFJSml6OWFFI2SRCURwSaLNDP25K1NkdUzgkA2nOI4OkuRzUE8dat4GA3Dr+fgGCqgXMGEvb4Njg==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/do--wlprBseWGu2pPRxAidckwKi8a6d4QsSWZwbDJNfDT+7sxFgxAXdmOJctR+s7ucM2U++5+-pi44o94rUHyw==/h264/index-f1-v1-a1.m3u8
 #----------------------Hành Tinh Cát-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -247,6 +264,19 @@ https://s5.phim1280.tv/20241028/cCmVbWnx/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Phim Ác Nhân Chim Cánh Cụt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20240922/dJpvWJCG/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Mật Mã Đỏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/m8OxZwxYS0GjG7+GpNMUq6mYgmHcjUdTvrwRoBUZHtsx3Jch3UIcYs9XAMcKehkP34TmeQ3HDD74gqrjAfM-CQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Biệt Đội Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/RfkzWlM8emCzbOSy4OU3N-3x6CVOqZKFlkhxmmgU4Evr7Q1fqBo8b6A+tW0IcQ0RGIMBQ7c7VIyubI8aZ0B7ZQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Bóng Ma ở Red Ridge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/MM3ctzjx0psxuhhkJCNjNuhoHZuVKXCrlbeD8HuRd+Bz6IMrCzna9GhuBVoSjTnMYkfEupdz6Feb0SbKZbKCnQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vòng Đua Sinh Tử
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/pXNldFNuARnhGRRxzIJzy5gKggKptMrfv-xSe9FUHPOqr7vqupbpoolQeq48CDQ9u1cPLtaxoaE23k506AvgBg==/h264/index-f1-v1-a1.m3u8
+
 
 
 #----------------------18+-------------------#
