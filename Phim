@@ -179,15 +179,20 @@ https://rpcfilm.cdnfly.click/hls/0AqGd8DxmZpFJSml6OWFFI2SRCURwSaLNDP25K1NkdUzgkA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rpcfilm.cdnfly.click/hls/do--wlprBseWGu2pPRxAidckwKi8a6d4QsSWZwbDJNfDT+7sxFgxAXdmOJctR+s7ucM2U++5+-pi44o94rUHyw==/h264/index-f1-v1-a1.m3u8
 #----------------------Hành Tinh Cát-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s5.phim1280.tv/20241118/dFAb6KgE/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 2
+https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 3
+https://rpcfilm.cdnfly.click/hls/k+Gimbmg9O-o5L-38cwEmtGw3HUh4rYtHRwu+VqFJyMMMjn2K106gLyDiQ85fDWVfzMWJ65Op9gBqIKB1q91MA==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://rpcfilm.cdnfly.click/hls/2OwchQ9paMoX9YnyRRUbcdMucyqlw0goK0YNNPLoVvGBAPaqQQpV+fUw+qgoAtNbWENOcMBWyKyq3x-G97gCWw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/Yb8jTOQ48D0WdUkAU06n4PnbGWNhwS-TRkrK3cZttPYuKbG0SufNAPexDyEcWd9AScNYAwhQ0BISLUlxvt3DBw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #----------------------HALO-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 1
