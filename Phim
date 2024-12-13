@@ -1,8 +1,123 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml";
 
+#----------------------La Palma-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 1
+https://rpcfilm.cdnfly.click/hls/pVKW0khJUoBcI2rfVIZzOOLbc+p103rdi8cn95XwPUsxHCd3Bp2E1rFauDRH6fe7+uVNOrWCURHHyGnzXcuzWw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 2
+https://rpcfilm.cdnfly.click/hls/UqJ5uaVYvruTLHYg2enegMDqWTh1vBFAruMF5nglcb2TW1KbBmWcNi-9AS2ZMP5FHO83NGfxjAgEtOjJpkRHSw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 3
+https://rpcfilm.cdnfly.click/hls/DvpZQN5dueUTk3XHcalBKHGgMxm1djUO1U64DJSweNl9tbXTr0go9y1G7QS7Sy0zkM3-V95bboL57nsJCiue9w==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 4
+https://rpcfilm.cdnfly.click/hls/4uDjA3MUx3+1HDZfoNVAC35YigQYRLLmNcniAowNx5sGfLLWJZ4EGdFGC7+wNCbAtzixmXvzaPOBSZqVu7jjFg==/h264/index-f1-v1-a1.m3u8
 
 
 
+#----------------------Thicha Tái Sinh-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/X5ff5Sxz1gkvLmO24dtGkRuXV76rfzSnMiKIqumaaZu3WpMt9y5ZBE7YM+42iMw+otrslLFM5EnRKI61pKArYQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/lnwHlExZhw9pfSzOCDBa4i8gY2ErezY93NMR3jU7PSMXrAteI9w6f32peEfJb9bNS1g65SrFdgH2CI9nFDpbPg==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/vGc5VVwya6x8gMBM9nPwKFid4eaVVhRwQqqFBjlW-wvY+2+TxU6V5ptZcwOSpIUZt9AusON7R46xcsyTiDn2KQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/ti5z4x1RnJf75N3TT4Rdf6upEhW1QLpvxkEQ9QGXh+tj814u5ZTlCCy0oCc4CcQTLgGqIZx2eXJs9-4BWMNADQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/0AqGd8DxmZpFJSml6OWFFI2SRCURwSaLNDP25K1NkdUzgkA2nOI4OkuRzUE8dat4GA3Dr+fgGCqgXMGEvb4Njg==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/do--wlprBseWGu2pPRxAidckwKi8a6d4QsSWZwbDJNfDT+7sxFgxAXdmOJctR+s7ucM2U++5+-pi44o94rUHyw==/h264/index-f1-v1-a1.m3u8
+
+#----------------------Hành Tinh Cát-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/k+Gimbmg9O-o5L-38cwEmtGw3HUh4rYtHRwu+VqFJyMMMjn2K106gLyDiQ85fDWVfzMWJ65Op9gBqIKB1q91MA==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/2OwchQ9paMoX9YnyRRUbcdMucyqlw0goK0YNNPLoVvGBAPaqQQpV+fUw+qgoAtNbWENOcMBWyKyq3x-G97gCWw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rpcfilm.cdnfly.click/hls/Yb8jTOQ48D0WdUkAU06n4PnbGWNhwS-TRkrK3cZttPYuKbG0SufNAPexDyEcWd9AScNYAwhQ0BISLUlxvt3DBw==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#----------------------HALO-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240301/NJI7gbOI/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240301/hUXxs98Q/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240301/dUarVxj2/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240301/QFhlyMyv/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240402/vDF6FZ9r/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240402/xWsswP1B/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240402/wOQAVPyz/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240402/cPUAVMxr/3000kb/hls/index.m3u8
+
+#----------------------Vũ Trụ Xa Lạ-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240228/7BOO1JQB/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240228/m0K5kOAo/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240228/03Xuu8Ci/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240229/EOniVTRT/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240309/sOLhIqL3/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240315/3NJ3Avcl/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240323/kLub0tVM/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240402/NbiWdWan/3000kb/hls/index.m3u8
+#----------------------Xác Sống-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240305/U8gaN8Rp/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s2.phim1280.tv/20240305/Yh5d3kgb/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s1.phim1280.tv/20240313/PuUENjKa/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240320/AAPZc73b/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240330/zW1xXrjk/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240404/i6dtVeO2/1000kb/hls/index.m3u8
 #----------------------Độc Đạo-------------------#
 
 
@@ -114,137 +229,19 @@ https://s4.phim1280.tv/20241120/lFqrYgFo/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241121/tKWdvSsO/2000kb/hls/index.m3u8
-#----------------------Xác Sống-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240305/U8gaN8Rp/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240305/Yh5d3kgb/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s1.phim1280.tv/20240313/PuUENjKa/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240320/AAPZc73b/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240330/zW1xXrjk/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240404/i6dtVeO2/1000kb/hls/index.m3u8
 
-#----------------------Vũ Trụ Xa Lạ-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240228/7BOO1JQB/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240228/m0K5kOAo/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240228/03Xuu8Ci/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240229/EOniVTRT/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240309/sOLhIqL3/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240315/3NJ3Avcl/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240323/kLub0tVM/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240402/NbiWdWan/3000kb/hls/index.m3u8
-#----------------------Thicha Tái Sinh-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/X5ff5Sxz1gkvLmO24dtGkRuXV76rfzSnMiKIqumaaZu3WpMt9y5ZBE7YM+42iMw+otrslLFM5EnRKI61pKArYQ==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/lnwHlExZhw9pfSzOCDBa4i8gY2ErezY93NMR3jU7PSMXrAteI9w6f32peEfJb9bNS1g65SrFdgH2CI9nFDpbPg==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/vGc5VVwya6x8gMBM9nPwKFid4eaVVhRwQqqFBjlW-wvY+2+TxU6V5ptZcwOSpIUZt9AusON7R46xcsyTiDn2KQ==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/ti5z4x1RnJf75N3TT4Rdf6upEhW1QLpvxkEQ9QGXh+tj814u5ZTlCCy0oCc4CcQTLgGqIZx2eXJs9-4BWMNADQ==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/0AqGd8DxmZpFJSml6OWFFI2SRCURwSaLNDP25K1NkdUzgkA2nOI4OkuRzUE8dat4GA3Dr+fgGCqgXMGEvb4Njg==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Thicha Tái Sinh 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/do--wlprBseWGu2pPRxAidckwKi8a6d4QsSWZwbDJNfDT+7sxFgxAXdmOJctR+s7ucM2U++5+-pi44o94rUHyw==/h264/index-f1-v1-a1.m3u8
-#----------------------Hành Tinh Cát-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/k+Gimbmg9O-o5L-38cwEmtGw3HUh4rYtHRwu+VqFJyMMMjn2K106gLyDiQ85fDWVfzMWJ65Op9gBqIKB1q91MA==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/2OwchQ9paMoX9YnyRRUbcdMucyqlw0goK0YNNPLoVvGBAPaqQQpV+fUw+qgoAtNbWENOcMBWyKyq3x-G97gCWw==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/Yb8jTOQ48D0WdUkAU06n4PnbGWNhwS-TRkrK3cZttPYuKbG0SufNAPexDyEcWd9AScNYAwhQ0BISLUlxvt3DBw==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Hành Tinh Cát 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
-#----------------------HALO-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240301/NJI7gbOI/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240301/hUXxs98Q/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240301/dUarVxj2/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s2.phim1280.tv/20240301/QFhlyMyv/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240402/vDF6FZ9r/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240402/xWsswP1B/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240402/wOQAVPyz/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240402/cPUAVMxr/3000kb/hls/index.m3u8
 
 #----------------------Phim Lẻ-------------------#
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s1.phim1280.tv/20231017/SkHyXmPv/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rpcfilm.cdnfly.click/hls/NGkjinoAB7guYpVAmBmt-A4dVc3wJc5GWbif1iZki6DDls58D2SvrUKWRphxcuEpa6Sbxw3ag6d8bJOiN-cCJA==/h264/index-f1-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rpcfilm.cdnfly.click/hls/ZYun7QWxy3tyz4OH5M8nQIi2T6e4PJenL7GmcyVJthDBYmF5haXubNkJ5eNWXCchYswYF7sXcocolfpfsq7UHw==/h264/index-f1-v1-a1.m3u8
-
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Họa Giang Hồ: Bất Lương Soái
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1080.opstream4.com/20240201/51104_bf774d40/3000k/hls/mixed.m3u8
-
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trận Chiến Tàn Khốc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vip.opstream17.com/20240224/1272_8231dfa9/3000k/hls/mixed.m3u8
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Deadpool & Wolverine (2024)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s3.phim1280.tv/20240806/TC6x1uXR/2000kb/hls/index.m3u8
-
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vương Giả Thiên Hạ 3: Ngọn Lửa Định Mệnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vip.opstream17.com/20240122/100_2a240770/3000k/hls/mixed.m3u8
@@ -263,9 +260,6 @@ https://s3.phim1280.tv/20240729/iXOWvXhj/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trúng Tà
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1080.opstream4.com/20231205/49750_b1f11b7e/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Venom Kèo Cuối
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://s5.phim1280.tv/20241028/cCmVbWnx/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Phim Ác Nhân Chim Cánh Cụt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20240922/dJpvWJCG/2000kb/hls/index.m3u8
@@ -281,8 +275,18 @@ https://rpcfilm.cdnfly.click/hls/MM3ctzjx0psxuhhkJCNjNuhoHZuVKXCrlbeD8HuRd+Bz6IM
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vòng Đua Sinh Tử
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rpcfilm.cdnfly.click/hls/pXNldFNuARnhGRRxzIJzy5gKggKptMrfv-xSe9FUHPOqr7vqupbpoolQeq48CDQ9u1cPLtaxoaE23k506AvgBg==/h264/index-f1-v1-a1.m3u8
-
-
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Venom Kèo Cuối
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s5.phim1280.tv/20241028/cCmVbWnx/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s1.phim1280.tv/20231017/SkHyXmPv/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Võ Sĩ Đấu Giác 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://rpcfilm.cdnfly.click/hls/NGkjinoAB7guYpVAmBmt-A4dVc3wJc5GWbif1iZki6DDls58D2SvrUKWRphxcuEpa6Sbxw3ag6d8bJOiN-cCJA==/h264/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Deadpool & Wolverine (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#https://s3.phim1280.tv/20240806/TC6x1uXR/2000kb/hls/index.m3u8
 
 #----------------------18+-------------------#
 #EXTINF:-1 tvg-id="" group-title="18+" tvg-logo="https://img.nangcuc.live/images/logo-oq7muqxcliwv.png", Xreindeers
