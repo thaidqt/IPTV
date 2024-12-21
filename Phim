@@ -3,12 +3,10 @@
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
 https://s5.phim1280.tv/20241204/pvKZw0UO/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/tin-hieu-vu-tru-7039-thumb.webp", Tín Hiệu Vũ Trụ
-https://s5.phim1280.tv/20241204/lZsA2GNS/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/anh-hung-huyen-thoai/5f08e35710979011ac6d112ec5bfd141.jpg", Anh Hùng Huyền Thoại
 https://s4.phim1280.tv/20240912/EzdFlMYk/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/dai-tham-hoa-nui-baekdu/a139ed77bb056b6524451fec95292a3a.jpg", Đại Thảm Hoạ Núi Baekdu
-https://s1.phim1280.tv/20230929/xL2nyxBk/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/kraven-tho-san-thu-linh/dfd1bcd57c31ca4cee062a3030d7e2a3.jpg", Kraven: Thợ Săn Thủ Lĩnh
+https://s4.phim1280.tv/20241217/k7Y2zDnE/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-nhan-loai/a10a03204e84e11900eaf71c72fc15d6.jpg", Thảm Họa Nhân Loại
 https://s2.phim1280.tv/20231130/A27thvSX/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20231120-1/63884f0c14843504d26891934c29c4f4.jpg", Thảm Họa Tàu Con Thoi
@@ -35,8 +33,6 @@ https://s2.phim1280.tv/20240119/Yb3L4pRy/3000kb/hls/index.m3u8
 https://s5.phim1280.tv/20241206/Xpf8dVAF/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vong-dua-sinh-tu/c315d002303f803b33f60a7f06dc86bb.jpg", Vòng Đua Sinh Tử
 https://s5.phim1280.tv/20241122/J3RR2UiM/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-mua-axit/7c2e018eaa8ae6f79d20812822c3c353.jpg", Thảm Họa Mưa Axit
-https://s3.phim1280.tv/20240602/1RUX4Uak/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Venom Kèo Cuối
 #https://s5.phim1280.tv/20241028/cCmVbWnx/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vo-si-giac-dau/b0d4f8f3e7c9a85e80dfcd8a9a9a379c.jpg", Võ Sĩ Giác Đấu 1
@@ -49,6 +45,10 @@ https://s5.phim1280.tv/20241206/RTCvq1Tq/2000kb/hls/index.m3u8
 #https://vip.opstream17.com/20240224/1272_8231dfa9/3000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Lốc Xoáy
 #https://s3.phim1280.tv/20240814/8mk4glZS/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/dai-tham-hoa-nui-baekdu/a139ed77bb056b6524451fec95292a3a.jpg", Đại Thảm Hoạ Núi Baekdu
+#https://s1.phim1280.tv/20230929/xL2nyxBk/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/tin-hieu-vu-tru-7039-thumb.webp", Tín Hiệu Vũ Trụ
+#https://s5.phim1280.tv/20241204/lZsA2GNS/2000kb/hls/index.m3u8
 #----------------------Phim Lẻ ASIA-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/than-thoai-2/653a7da3d1c53cdc2591064584cbfbdc.jpg", Thần Thoại 2
 https://s4.phim1280.tv/20240901/JAeag5Ay/2000kb/hls/index.m3u8
@@ -220,7 +220,10 @@ https://s5.phim1280.tv/20241204/Y9vX2b0X/index.m3u8
 https://s4.phim1280.tv/20241210/LtPysO2h/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 6
 https://s4.phim1280.tv/20241211/vdXshvwL/index.m3u8
-
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 7
+https://s4.phim1280.tv/20241217/h1GJDLtI/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 8
+https://s4.phim1280.tv/20241218/0Awsec7o/2000kb/hls/index.m3u8
 #----------------------Hành Tinh Cát-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 1
 https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
