@@ -21,6 +21,10 @@ https://s2.phim1280.tv/20231028/6Et7WUgb/3000kb/hls/index.m3u8
 https://s1.phim1280.tv/20231102/J2r6Tvvh/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-gian-khoan-2021/8f3f4474cb5e016e101b19b7a3a8a7c5.jpg", Thảm Họa Giàn Khoan 2
 https://s2.phim1280.tv/20230927/EoeEtzp6/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/hien-dang/6bfdadedef7fbfddf281df230f2a2687.jpg", Hiến Dâng
+https://vip.opstream14.com/20230120/29537_3c34cf73/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/stowaway/0182e2f908f33f642bdb5546de9e5866.jpg", Hành trình lên sao Hỏa
+https://s1.phim1280.tv/20231212/89zjnZNR/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/nhung-thien-than-chien-truong/8d9259314e659da281d6a281fdb73f49.jpg", Những Thiên Thần Chiến Trường
 https://s4.phim1280.tv/20241216/24kcNs88/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trúng Tà
@@ -132,15 +136,110 @@ https://s4.phim1280.tv/20241104/FeHorZs2/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 8
 https://s5.phim1280.tv/20241111/nJqNZi5l/2000kb/hls/index.m3u8
 
-#----------------------La Palma-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 1
-https://vip.opstream15.com/20241214/45289_36b14516/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 2
-https://vip.opstream15.com/20241214/45290_f2dfb1d3/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 3
-https://vip.opstream15.com/20241214/45291_9e047096/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 4
-https://vip.opstream15.com/20241214/45292_ebc27851/3000k/hls/mixed.m3u8
+#----------------------Phim Sự Sống Khác (Phần 1)-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 1
+https://s4.phim1280.tv/20241114/atjMP7Ng/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 2
+https://s4.phim1280.tv/20241114/bIR9xEoa/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 3
+https://s4.phim1280.tv/20241114/0bmyRDy6/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 4
+https://s4.phim1280.tv/20241114/X7IZ93MD/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 5
+https://s4.phim1280.tv/20241114/dSSffG7H/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 6
+https://s4.phim1280.tv/20241114/vJOs6VWs/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 7
+https://s4.phim1280.tv/20241114/ECtuWh7M/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 8
+https://s4.phim1280.tv/20241114/gUbp5EP1/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 9
+https://s4.phim1280.tv/20241114/mXDNIuH6/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 10
+https://s4.phim1280.tv/20241114/CfMdmNjo/2000kb/hls/index.m3u8
+#----------------------Phim Sự Sống Khác (Phần 2)-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 1
+https://s4.phim1280.tv/20241114/xpQl24uG/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 2
+https://s4.phim1280.tv/20241114/KggohppR/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 3
+https://s4.phim1280.tv/20241114/c23f3He3/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 4
+https://s4.phim1280.tv/20241114/87l4rOfv/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 5
+https://s4.phim1280.tv/20241114/s3Hl09mL/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 6
+https://s4.phim1280.tv/20241114/P1mIvIak/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 7
+https://s4.phim1280.tv/20241114/2IEqvN0O/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 8
+https://s4.phim1280.tv/20241114/HPNcJZZz/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 9
+https://s4.phim1280.tv/20241114/cfCCRboO/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 10
+https://s4.phim1280.tv/20241114/BIJdchyH/2000kb/hls/index.m3u8
+#----------------------Lạc Ngoài Không Gian (Phần 1)-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
+https://s4.phim1280.tv/20241105/IIvhJX08/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
+https://s4.phim1280.tv/20241105/L6PC0n7t/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
+https://s4.phim1280.tv/20241105/Kfax3vzg/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
+https://s4.phim1280.tv/20241105/yNTdDHSV/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
+https://s4.phim1280.tv/20241105/sSZ47H2m/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
+https://s4.phim1280.tv/20241105/l1wSAZXh/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
+https://s4.phim1280.tv/20241105/VxlOGThO/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
+https://s4.phim1280.tv/20241105/1uxutJf4/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 9
+https://s4.phim1280.tv/20241105/YRipIEiu/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 10
+https://s4.phim1280.tv/20241105/Fr8OLOJ5/2000kb/hls/index.m3u8
+#----------------------Lạc Ngoài Không Gian (Phần 2)-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 1
+https://s1.phim1280.tv/20231213/uD1XuZ0h/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 2
+https://s1.phim1280.tv/20231213/6mSRbmJR/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 3
+https://s1.phim1280.tv/20231213/yUrkuhGP/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 4
+https://s1.phim1280.tv/20231213/Xc5BHUbe/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 5
+https://s1.phim1280.tv/20231213/eN7outTx/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 6
+https://s1.phim1280.tv/20231213/iXISutQK/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 7
+https://s1.phim1280.tv/20231213/7auQZBIY/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 8
+https://s1.phim1280.tv/20231213/HRjbjdKg/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 9
+https://s1.phim1280.tv/20231213/ZX4Pm34Y/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 10
+https://s1.phim1280.tv/20231213/hMVpPQEs/3000kb/hls/index.m3u8
+#----------------------Lạc Ngoài Không Gian (Phần 3)-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
+https://s4.phim1280.tv/20241105/pDP9FXIP/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
+https://s4.phim1280.tv/20241105/wJvz4x3C/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
+https://s4.phim1280.tv/20241105/fLpfP2yc/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
+https://s4.phim1280.tv/20241105/Rm8VctSK/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
+https://s4.phim1280.tv/20241105/cKHUaKP9/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
+https://s4.phim1280.tv/20241105/3JxoQymH/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
+https://s4.phim1280.tv/20241105/SiIgirAC/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
+https://s4.phim1280.tv/20241105/9Vkk3VO2/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 9
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 10
 
 #----------------------Thị Trấn Ác Mộng SS1-------------------#
 #EXTINF:-1 tvg-id="" group-title="Thị Trấn Ác Mộng SS1" tvg-logo="https://yeuphim.cc/storage/images/thi-tran-ac-mong-phan-3/a0a787fce445905d5bee71a2a7f3b4af.jpg", Thị Trấn Ác Mộng 1
@@ -209,21 +308,21 @@ https://vip.opstream15.com/20241130/44360_83dac2ca/3000k/hls/mixed.m3u8
 
 #----------------------Thicha Tái Sinh-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 1
-https://s4.phim1280.tv/20241126/tAwugLvQ/index.m3u8
+#https://s4.phim1280.tv/20241126/tAwugLvQ/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 2
-https://s4.phim1280.tv/20241126/K2BNcgZ4/index.m3u8
+#https://s4.phim1280.tv/20241126/K2BNcgZ4/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 3
-https://s5.phim1280.tv/20241203/A2pp3hxA/index.m3u8
+#https://s5.phim1280.tv/20241203/A2pp3hxA/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 4
-https://s5.phim1280.tv/20241204/Y9vX2b0X/index.m3u8
+#https://s5.phim1280.tv/20241204/Y9vX2b0X/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 5
-https://s4.phim1280.tv/20241210/LtPysO2h/index.m3u8
+#https://s4.phim1280.tv/20241210/LtPysO2h/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 6
-https://s4.phim1280.tv/20241211/vdXshvwL/index.m3u8
+#https://s4.phim1280.tv/20241211/vdXshvwL/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 7
-https://s4.phim1280.tv/20241217/h1GJDLtI/2000kb/hls/index.m3u8
+#https://s4.phim1280.tv/20241217/h1GJDLtI/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 8
-https://s4.phim1280.tv/20241218/0Awsec7o/2000kb/hls/index.m3u8
+#https://s4.phim1280.tv/20241218/0Awsec7o/2000kb/hls/index.m3u8
 #----------------------Hành Tinh Cát-------------------#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 1
 https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
@@ -306,6 +405,16 @@ https://s4.phim1280.tv/20241216/u3xr7BK5/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240404/i6dtVeO2/1000kb/hls/index.m3u8
+
+#----------------------La Palma-------------------#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 1
+#https://vip.opstream15.com/20241214/45289_36b14516/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 2
+#https://vip.opstream15.com/20241214/45290_f2dfb1d3/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 3
+#https://vip.opstream15.com/20241214/45291_9e047096/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 4
+#https://vip.opstream15.com/20241214/45292_ebc27851/3000k/hls/mixed.m3u8
 #----------------------Độc Đạo-------------------#
 
 
