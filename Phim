@@ -1,245 +1,344 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml";
 #----------------------Phim Lẻ-------------------#
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
 https://s5.phim1280.tv/20241204/pvKZw0UO/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/anh-hung-huyen-thoai/5f08e35710979011ac6d112ec5bfd141.jpg", Anh Hùng Huyền Thoại
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/anh-hung-huyen-thoai/5f08e35710979011ac6d112ec5bfd141.jpg", Anh Hùng Huyền Thoại
 https://s4.phim1280.tv/20240912/EzdFlMYk/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/kraven-tho-san-thu-linh/dfd1bcd57c31ca4cee062a3030d7e2a3.jpg", Kraven: Thợ Săn Thủ Lĩnh
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/kraven-tho-san-thu-linh/dfd1bcd57c31ca4cee062a3030d7e2a3.jpg", Kraven: Thợ Săn Thủ Lĩnh
 https://s4.phim1280.tv/20241217/k7Y2zDnE/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-nhan-loai/a10a03204e84e11900eaf71c72fc15d6.jpg", Thảm Họa Nhân Loại
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-nhan-loai/a10a03204e84e11900eaf71c72fc15d6.jpg", Thảm Họa Nhân Loại
 https://s2.phim1280.tv/20231130/A27thvSX/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20231120-1/63884f0c14843504d26891934c29c4f4.jpg", Thảm Họa Tàu Con Thoi
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20231120-1/63884f0c14843504d26891934c29c4f4.jpg", Thảm Họa Tàu Con Thoi
 https://s2.phim1280.tv/20231130/pKzMxfSk/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-mua-axit/7c2e018eaa8ae6f79d20812822c3c353.jpg", Thảm Họa Mưa Axit
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-mua-axit/7c2e018eaa8ae6f79d20812822c3c353.jpg", Thảm Họa Mưa Axit
 https://s3.phim1280.tv/20240602/1RUX4Uak/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/greenland-tham-hoa-thien-thach/041ba4cdae662f27a3bfbb715efc7fe5.jpg", Thảm Họa Thiên Thạch
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/greenland-tham-hoa-thien-thach/041ba4cdae662f27a3bfbb715efc7fe5.jpg", Thảm Họa Thiên Thạch
 https://s3.phim1280.tv/20240518/TVtcIqZc/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-dinh-everest/56d8d8ee0be16d31a5d33133c0cfa18d.jpg", Thảm Họa Đỉnh Everest
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-dinh-everest/56d8d8ee0be16d31a5d33133c0cfa18d.jpg", Thảm Họa Đỉnh Everest
 https://s2.phim1280.tv/20231028/6Et7WUgb/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-gian-khoan-2016/cc456e0cbbbf5997b5bdfea630c07056.jpg", Thảm Họa Giàn Khoan 1
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-gian-khoan-2016/cc456e0cbbbf5997b5bdfea630c07056.jpg", Thảm Họa Giàn Khoan 1
 https://s1.phim1280.tv/20231102/J2r6Tvvh/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-gian-khoan-2021/8f3f4474cb5e016e101b19b7a3a8a7c5.jpg", Thảm Họa Giàn Khoan 2
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-gian-khoan-2021/8f3f4474cb5e016e101b19b7a3a8a7c5.jpg", Thảm Họa Giàn Khoan 2
 https://s2.phim1280.tv/20230927/EoeEtzp6/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/hien-dang/6bfdadedef7fbfddf281df230f2a2687.jpg", Hiến Dâng
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/hien-dang/6bfdadedef7fbfddf281df230f2a2687.jpg", Hiến Dâng
 https://vip.opstream14.com/20230120/29537_3c34cf73/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/stowaway/0182e2f908f33f642bdb5546de9e5866.jpg", Hành trình lên sao Hỏa
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.vip/storage/images/stowaway/0182e2f908f33f642bdb5546de9e5866.jpg", Hành trình lên sao Hỏa
 https://s1.phim1280.tv/20231212/89zjnZNR/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/nhung-thien-than-chien-truong/8d9259314e659da281d6a281fdb73f49.jpg", Những Thiên Thần Chiến Trường
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/nhung-thien-than-chien-truong/8d9259314e659da281d6a281fdb73f49.jpg", Những Thiên Thần Chiến Trường
 https://s4.phim1280.tv/20241216/24kcNs88/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trúng Tà
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trúng Tà
 https://1080.opstream4.com/20231205/49750_b1f11b7e/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/mat-ma-do/e2cadf163017afd6a4fd189abe90b107.jpg", Mật Mã Đỏ
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/mat-ma-do/e2cadf163017afd6a4fd189abe90b107.jpg", Mật Mã Đỏ
 https://s4.phim1280.tv/20241213/k8WwowG2/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/biet-doi-marvel/c95693362e9556b07f2f42a42bc4122d.jpg", Biệt Đội Marvel
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/biet-doi-marvel/c95693362e9556b07f2f42a42bc4122d.jpg", Biệt Đội Marvel
 https://s2.phim1280.tv/20240119/Yb3L4pRy/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/thi-tran-oan-hon/280d5129286adca01a829d89736afdc0.jpg", Thị Trấn Oan Hồn
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/thi-tran-oan-hon/280d5129286adca01a829d89736afdc0.jpg", Thị Trấn Oan Hồn
 https://s5.phim1280.tv/20241206/Xpf8dVAF/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vong-dua-sinh-tu/c315d002303f803b33f60a7f06dc86bb.jpg", Vòng Đua Sinh Tử
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vong-dua-sinh-tu/c315d002303f803b33f60a7f06dc86bb.jpg", Vòng Đua Sinh Tử
 https://s5.phim1280.tv/20241122/J3RR2UiM/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Venom Kèo Cuối
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Venom Kèo Cuối
 #https://s5.phim1280.tv/20241028/cCmVbWnx/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vo-si-giac-dau/b0d4f8f3e7c9a85e80dfcd8a9a9a379c.jpg", Võ Sĩ Giác Đấu 1
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vo-si-giac-dau/b0d4f8f3e7c9a85e80dfcd8a9a9a379c.jpg", Võ Sĩ Giác Đấu 1
 #https://s1.phim1280.tv/20231017/SkHyXmPv/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vo-si-giac-dau-ii/a6c7a02cb4965ea2e8d78e5836f86d64.jpg", Võ Sĩ Giác Đấu 2
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/vo-si-giac-dau-ii/a6c7a02cb4965ea2e8d78e5836f86d64.jpg", Võ Sĩ Giác Đấu 2
 https://s5.phim1280.tv/20241206/RTCvq1Tq/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/deadpool-va-wolverine/201d7ad36c2f38804ea00636f5d793ee.jpg", Deadpool & Wolverine
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/deadpool-va-wolverine/201d7ad36c2f38804ea00636f5d793ee.jpg", Deadpool & Wolverine
 #https://s3.phim1280.tv/20240806/TC6x1uXR/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trận Chiến Tàn Khốc
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Trận Chiến Tàn Khốc
 #https://vip.opstream17.com/20240224/1272_8231dfa9/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Lốc Xoáy
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Lốc Xoáy
 #https://s3.phim1280.tv/20240814/8mk4glZS/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/dai-tham-hoa-nui-baekdu/a139ed77bb056b6524451fec95292a3a.jpg", Đại Thảm Hoạ Núi Baekdu
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/dai-tham-hoa-nui-baekdu/a139ed77bb056b6524451fec95292a3a.jpg", Đại Thảm Hoạ Núi Baekdu
 #https://s1.phim1280.tv/20230929/xL2nyxBk/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/tin-hieu-vu-tru-7039-thumb.webp", Tín Hiệu Vũ Trụ
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/tin-hieu-vu-tru-7039-thumb.webp", Tín Hiệu Vũ Trụ
 #https://s5.phim1280.tv/20241204/lZsA2GNS/2000kb/hls/index.m3u8
 #----------------------Phim Lẻ ASIA-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/than-thoai-2/653a7da3d1c53cdc2591064584cbfbdc.jpg", Thần Thoại 2
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/than-thoai-2/653a7da3d1c53cdc2591064584cbfbdc.jpg", Thần Thoại 2
 https://s4.phim1280.tv/20240901/JAeag5Ay/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/vuong-gia-thien-ha-3-ngon-lua-dinh-menh/9bc259697792be0f9399fe03fe206f14.jpg", Vương Giả Thiên Hạ 3: Ngọn Lửa Định Mệnh
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/vuong-gia-thien-ha-3-ngon-lua-dinh-menh/9bc259697792be0f9399fe03fe206f14.jpg", Vương Giả Thiên Hạ 3: Ngọn Lửa Định Mệnh
 https://vip.opstream17.com/20240122/100_2a240770/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://cdn.galaxycine.vn/media/2024/7/31/ma-cay-750_1722409941755.jpg", Ma Cây
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://cdn.galaxycine.vn/media/2024/7/31/ma-cay-750_1722409941755.jpg", Ma Cây
 https://s5.phim1280.tv/20240930/vUkLoKYh/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://pic5.iqiyipic.com/image/20231009/b1/93/v_173994490_m_601_vi_1013_569.jpg", Tử Bất Ngữ: Dạ Hành Lang
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://pic5.iqiyipic.com/image/20231009/b1/93/v_173994490_m_601_vi_1013_569.jpg", Tử Bất Ngữ: Dạ Hành Lang
 https://vip.opstream11.com/20231010/48310_4a33ca10/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://img.phimapi.com/upload/vod/20240121-1/4b40f51efa469324c5f6dfabc2bc0d5a.jpg", Ngôi Đền Kỳ Quái 1
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://img.phimapi.com/upload/vod/20240121-1/4b40f51efa469324c5f6dfabc2bc0d5a.jpg", Ngôi Đền Kỳ Quái 1
 https://s2.phim1280.tv/20240122/VNuiXeuv/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://img.phimapi.com/upload/vod/20231219-1/6fdac8fbaa2ed94cfe309e10ad2ba6f9.jpg", Ngôi Đền Kỳ Quái 2
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://img.phimapi.com/upload/vod/20231219-1/6fdac8fbaa2ed94cfe309e10ad2ba6f9.jpg", Ngôi Đền Kỳ Quái 2
 https://s2.phim1280.tv/20240108/8xyktn4s/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/ngoi-den-ky-quai-3/032a3d66dc62c1353f1c69c35d2da546.jpg", Ngôi Đền Kỳ Quái 3
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/ngoi-den-ky-quai-3/032a3d66dc62c1353f1c69c35d2da546.jpg", Ngôi Đền Kỳ Quái 3
 https://s3.phim1280.tv/20240828/oBILb0TC/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/ngoi-den-ky-quai-4/922b5732aee3c0238d9c9c414b9e5374.jpg", Ngôi Đền Kỳ Quái 4
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/ngoi-den-ky-quai-4/922b5732aee3c0238d9c9c414b9e5374.jpg", Ngôi Đền Kỳ Quái 4
 https://s3.phim1280.tv/20240729/iXOWvXhj/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/nhiem-vu-cuoi-cung/1bca04468f70cc5818bbbb432249fd2c.jpg", Nhiệm Vụ Cuối Cùng
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ ASIA" tvg-logo="https://yeuphim.cc/storage/images/nhiem-vu-cuoi-cung/1bca04468f70cc5818bbbb432249fd2c.jpg", Nhiệm Vụ Cuối Cùng
 https://s3.phim1280.tv/20240428/c8zHQFMI/2000kb/hls/index.m3u8
 
 #----------------------SiLo 1-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 1
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 1
 https://s1.phim1280.tv/20230922/d9wkpT1z/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 2
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 2
 https://s1.phim1280.tv/20230922/1M10t52R/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 3
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 3
 https://s1.phim1280.tv/20230922/DHHS6byz/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 4
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 4
 https://s1.phim1280.tv/20230922/4UNZ2JzH/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 5
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 5
 https://s1.phim1280.tv/20230922/bH6eybYB/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 6
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 6
 https://s1.phim1280.tv/20230922/MjSF8zzw/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 7
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 7
 https://s1.phim1280.tv/20230922/3d9HesJH/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 8
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 8
 https://s1.phim1280.tv/20230922/aW12Lxnt/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 9
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 9
 https://s1.phim1280.tv/20230922/NKVpVQIy/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 10
+#EXTINF:-1 tvg-id="1" group-title="SiLo 1" tvg-logo="https://m.media-amazon.com/images/I/81P0TuqTpxL._AC_UF1000,1000_QL80_.jpg", SiLo 10
 https://s1.phim1280.tv/20230922/kMG04c7g/2000kb/hls/index.m3u8
 #----------------------SiLo 2-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 1
+#EXTINF:-1 tvg-id="1" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 1
 #https://vip.opstream11.com/20241116/57608_e8f6cff7/index.m3u8
 https://s5.phim1280.tv/20241118/V0Q6I8l3/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 2
+#EXTINF:-1 tvg-id="1" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 2
 #https://vip.opstream11.com/20241122/58032_bc256aff/index.m3u8
 https://s4.phim1280.tv/20241126/KggcOLU0/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 3
+#EXTINF:-1 tvg-id="1" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 3
 https://s5.phim1280.tv/20241201/lLtXlEWb/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 4
+#EXTINF:-1 tvg-id="1" group-title="SiLo 2" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/649edaeb935e9338c8a64416/silo1/960x0.jpg", SiLo 4
 https://s5.phim1280.tv/20241206/KEwRdmue/2000kb/hls/index.m3u8
 #----------------------Cuộc điều tra người ngoài hành tinh-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 1
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 1
 https://s5.phim1280.tv/20241112/QLcb6Lmm/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 2
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 2
 https://s5.phim1280.tv/20241112/zGMYEJU0/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 3
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 3
 https://s5.phim1280.tv/20241112/lOSUiNhp/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 4
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 4
 https://s5.phim1280.tv/20241112/mhk5d1xH/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 5
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 5
 https://s5.phim1280.tv/20241112/NXCxWGZv/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 6
+#EXTINF:-1 tvg-id="1" group-title="Cuộc điều tra người ngoài hành tinh" tvg-logo="https://havensounds.com/wp-content/uploads/2024/12/cuoc-dieu-tra-nguoi-ngoai-hanh-tinh-5495-thumb.webp", Cuộc điều tra người ngoài hành tinh 6
 https://s5.phim1280.tv/20241112/yHk6Bh12/2000kb/hls/index.m3u8
 #----------------------Đế Chế Chim Cánh Cụt-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 1
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 1
 https://s4.phim1280.tv/20240922/dJpvWJCG/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 2
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 2
 https://s5.phim1280.tv/20241002/xHjH3xwd/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 3
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 3
 https://s4.phim1280.tv/20241008/qI3wcfhq/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 4
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 4
 https://s4.phim1280.tv/20241015/JrZDdtCq/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 5
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 5
 https://s4.phim1280.tv/20241021/YNq4WUqa/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 6
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 6
 https://s5.phim1280.tv/20241028/TBbaaam6/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 7
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 7
 https://s4.phim1280.tv/20241104/FeHorZs2/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 8
+#EXTINF:-1 tvg-id="1" group-title="Đế Chế Chim Cánh Cụt" tvg-logo="https://yeuphim.cc/storage/images/ac-nhan-chim-canh-cut/e2f5381bcbaa3e5efda0d358d9816916.jpg", Đế Chế Chim Cánh Cụt 8
 https://s5.phim1280.tv/20241111/nJqNZi5l/2000kb/hls/index.m3u8
 
 #----------------------Phim Sự Sống Khác (Phần 1)-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 1
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 1
 https://s4.phim1280.tv/20241114/atjMP7Ng/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 2
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 2
 https://s4.phim1280.tv/20241114/bIR9xEoa/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 3
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 3
 https://s4.phim1280.tv/20241114/0bmyRDy6/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 4
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 4
 https://s4.phim1280.tv/20241114/X7IZ93MD/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 5
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 5
 https://s4.phim1280.tv/20241114/dSSffG7H/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 6
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 6
 https://s4.phim1280.tv/20241114/vJOs6VWs/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 7
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 7
 https://s4.phim1280.tv/20241114/ECtuWh7M/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 8
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 8
 https://s4.phim1280.tv/20241114/gUbp5EP1/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 9
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 9
 https://s4.phim1280.tv/20241114/mXDNIuH6/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 10
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 1" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-1/58deb87dd5825d52d73cfea4f8167e26.jpg", Sự Sống Khác 10
 https://s4.phim1280.tv/20241114/CfMdmNjo/2000kb/hls/index.m3u8
 #----------------------Phim Sự Sống Khác (Phần 2)-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 1
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 1
 https://s4.phim1280.tv/20241114/xpQl24uG/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 2
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 2
 https://s4.phim1280.tv/20241114/KggohppR/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 3
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 3
 https://s4.phim1280.tv/20241114/c23f3He3/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 4
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 4
 https://s4.phim1280.tv/20241114/87l4rOfv/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 5
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 5
 https://s4.phim1280.tv/20241114/s3Hl09mL/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 6
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 6
 https://s4.phim1280.tv/20241114/P1mIvIak/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 7
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 7
 https://s4.phim1280.tv/20241114/2IEqvN0O/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 8
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 8
 https://s4.phim1280.tv/20241114/HPNcJZZz/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 9
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 9
 https://s4.phim1280.tv/20241114/cfCCRboO/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 10
+#EXTINF:-1 tvg-id="1" group-title="Sự Sống Khác 2" tvg-logo="https://yeuphim.vip/storage/images/su-song-khac-phan-2/5205206304f77e67fb4be4ebe93c9b5f.jpg", Sự Sống Khác 10
 https://s4.phim1280.tv/20241114/BIJdchyH/2000kb/hls/index.m3u8
 #----------------------Lạc Ngoài Không Gian (Phần 1)-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
 https://s4.phim1280.tv/20241105/IIvhJX08/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
 https://s4.phim1280.tv/20241105/L6PC0n7t/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
 https://s4.phim1280.tv/20241105/Kfax3vzg/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
 https://s4.phim1280.tv/20241105/yNTdDHSV/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
 https://s4.phim1280.tv/20241105/sSZ47H2m/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
 https://s4.phim1280.tv/20241105/l1wSAZXh/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
 https://s4.phim1280.tv/20241105/VxlOGThO/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
 https://s4.phim1280.tv/20241105/1uxutJf4/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 9
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 9
 https://s4.phim1280.tv/20241105/YRipIEiu/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 10
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 1" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 10
 https://s4.phim1280.tv/20241105/Fr8OLOJ5/2000kb/hls/index.m3u8
 #----------------------Lạc Ngoài Không Gian (Phần 2)-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 1
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 1
 https://s1.phim1280.tv/20231213/uD1XuZ0h/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 2
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 2
 https://s1.phim1280.tv/20231213/6mSRbmJR/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 3
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 3
 https://s1.phim1280.tv/20231213/yUrkuhGP/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 4
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 4
 https://s1.phim1280.tv/20231213/Xc5BHUbe/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 5
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 5
 https://s1.phim1280.tv/20231213/eN7outTx/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 6
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 6
 https://s1.phim1280.tv/20231213/iXISutQK/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 7
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 7
 https://s1.phim1280.tv/20231213/7auQZBIY/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 8
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 8
 https://s1.phim1280.tv/20231213/HRjbjdKg/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 9
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 9
 https://s1.phim1280.tv/20231213/ZX4Pm34Y/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 10
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 2" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-2/38b3d761a2b06f5027abc27d01d8ccb5.jpg", Lạc Ngoài Không Gian 10
 https://s1.phim1280.tv/20231213/hMVpPQEs/3000kb/hls/index.m3u8
 #----------------------Lạc Ngoài Không Gian (Phần 3)-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 1
 https://s4.phim1280.tv/20241105/pDP9FXIP/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 2
 https://s4.phim1280.tv/20241105/wJvz4x3C/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 3
 https://s4.phim1280.tv/20241105/fLpfP2yc/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 4
 https://s4.phim1280.tv/20241105/Rm8VctSK/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 5
 https://s4.phim1280.tv/20241105/cKHUaKP9/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 6
 https://s4.phim1280.tv/20241105/3JxoQymH/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 7
 https://s4.phim1280.tv/20241105/SiIgirAC/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
+#EXTINF:-1 tvg-id="1" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 8
 https://s4.phim1280.tv/20241105/9Vkk3VO2/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 9
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Lạc Ngoài Không Gian 3" tvg-logo="https://yeuphim.vip/storage/images/lac-ngoai-khong-gian-phan-1/94352ef2b6f12adb3d604a821f42c57a.jpg", Lạc Ngoài Không Gian 10
+#----------------------Chuyến Tàu Băng Giá (Phần 1)-------------------#
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 1
+https://s4.phim1280.tv/20241010/NQ6suOxA/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 2
+https://s4.phim1280.tv/20241010/e3xYgD5j/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 3
+https://s4.phim1280.tv/20241010/UB3CzB6I/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 4
+https://s4.phim1280.tv/20241010/E1vttXF0/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 5
+https://s4.phim1280.tv/20241010/lWtguSaf/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 6
+https://s4.phim1280.tv/20241010/x8U22Oe8/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 7
+https://s4.phim1280.tv/20241010/PA97xhgu/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 8
+https://s4.phim1280.tv/20241010/cIHOTd6s/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 9
+https://s4.phim1280.tv/20241010/jTmqUDsh/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 1" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-1/907a6351810f8c01e1ebbdec1372f487.jpg", Chuyến Tàu Băng Giá 10
+https://s4.phim1280.tv/20241010/UhjMe1Ft/2000kb/hls/index.m3u8
+
+#----------------------Chuyến Tàu Băng Giá (Phần 2)-------------------#
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 1
+https://s4.phim1280.tv/20241010/qSjdFwu0/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 2
+https://s4.phim1280.tv/20241010/kfl5fwbW/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 3
+https://s4.phim1280.tv/20241010/3ylQBr63/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 4
+https://s4.phim1280.tv/20241010/mJJYGIxb/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 5
+https://s4.phim1280.tv/20241010/234HC13s/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 6
+https://s4.phim1280.tv/20241010/g6je81tz/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 7
+https://s4.phim1280.tv/20241010/RaZwXBdR/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 8
+https://s4.phim1280.tv/20241010/mWGwKpkY/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 9
+https://s4.phim1280.tv/20241010/rx3bgFpg/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 2" tvg-logo="https://yeuphim.vip/storage/images/chuyen-tau-bang-gia-phan-2/891cb9f16619151d9fad3683dda81b0a.jpg", Chuyến Tàu Băng Giá 10
+https://s4.phim1280.tv/20241010/uGEMyINV/2000kb/hls/index.m3u8
+#----------------------Chuyến Tàu Băng Giá (Phần 3)-------------------#
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 1
+https://s3.phim1280.tv/20240413/CL4Aj5T3/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 2
+https://s3.phim1280.tv/20240413/HNEG1FTv/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 3
+https://s3.phim1280.tv/20240413/SUs2agld/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 4
+https://s3.phim1280.tv/20240413/VfnXGq5h/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 5
+https://s3.phim1280.tv/20240413/tyH6DcvJ/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 6
+https://s3.phim1280.tv/20240413/Fa6dC37T/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 7
+https://s3.phim1280.tv/20240413/yDXx3IfJ/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 8
+https://s3.phim1280.tv/20240413/cqN9V5jE/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 9
+https://s3.phim1280.tv/20240413/7Amjugyh/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Chuyến Tàu Băng Giá 3" tvg-logo="https://img.phimapi.com/upload/vod/20240409-1/9ca691debfce89a3ceca3ea3cf950abf.jpg", Chuyến Tàu Băng Giá 10
+https://s3.phim1280.tv/20240413/lS4fyDTU/2000kb/hls/index.m3u8
+
+#----------------------1899-------------------#
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 1
+https://s1.phim1280.tv/20231218/316mcPOF/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 2
+https://s1.phim1280.tv/20231218/316mcPOF/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 3
+https://s1.phim1280.tv/20231218/DnvnigtO/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 4
+https://s1.phim1280.tv/20231218/h1vb1z2h/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 5
+https://s1.phim1280.tv/20231218/YdCJoncC/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 6
+https://s1.phim1280.tv/20231218/HVi75fqf/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 7
+https://s1.phim1280.tv/20231218/Y15bYBBM/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="1899" tvg-logo="https://yeuphim.vip/storage/images/1899/3eb6cb9a95ab6f559f2e6ce3aeb345ca.jpg", 1899 Tập 8
+https://s1.phim1280.tv/20231218/nXcRqeCD/3000kb/hls/index.m3u8
+#----------------------Ba Vật Thể-------------------#
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 1
+https://s3.phim1280.tv/20240323/oWgXWotg/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 2
+https://s3.phim1280.tv/20240323/D2vS6BHV/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 3
+https://s3.phim1280.tv/20240323/mF1EBAim/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 4
+https://s3.phim1280.tv/20240323/a5DFscyn/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 5
+https://s3.phim1280.tv/20240323/7AiH6G23/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 6
+https://s3.phim1280.tv/20240323/2HpcRJ95/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 7
+https://s3.phim1280.tv/20240323/w6n9GtUy/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Ba Vật Thể Mùa 1" tvg-logo="https://img.phimapi.com/upload/vod/20240323-1/09ff739edd9e2fff81fbc9402cfd9569.jpg", Ba Vật Thể 8
+https://s3.phim1280.tv/20240323/PVMlS1kN/3000kb/hls/index.m3u8
+
+
 
 #----------------------Thị Trấn Ác Mộng SS1-------------------#
 #EXTINF:-1 tvg-id="" group-title="Thị Trấn Ác Mộng SS1" tvg-logo="https://yeuphim.cc/storage/images/thi-tran-ac-mong-phan-3/a0a787fce445905d5bee71a2a7f3b4af.jpg", Thị Trấn Ác Mộng 1
@@ -307,223 +406,223 @@ https://vip.opstream15.com/20241130/44359_ff36cea2/3000k/hls/mixed.m3u8
 https://vip.opstream15.com/20241130/44360_83dac2ca/3000k/hls/mixed.m3u8
 
 #----------------------Thicha Tái Sinh-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 1
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 1
 #https://s4.phim1280.tv/20241126/tAwugLvQ/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 2
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 2
 #https://s4.phim1280.tv/20241126/K2BNcgZ4/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 3
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 3
 #https://s5.phim1280.tv/20241203/A2pp3hxA/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 4
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 4
 #https://s5.phim1280.tv/20241204/Y9vX2b0X/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 5
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 5
 #https://s4.phim1280.tv/20241210/LtPysO2h/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 6
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 6
 #https://s4.phim1280.tv/20241211/vdXshvwL/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 7
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 7
 #https://s4.phim1280.tv/20241217/h1GJDLtI/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 8
+#EXTINF:-1 tvg-id="1" group-title="Thicha Tái Sinh" tvg-logo="https://yeuphim.cc/storage/images/nang-thicha/7b249234f72b4ddc976e346d731c8137.jpg", Thicha Tái Sinh 8
 #https://s4.phim1280.tv/20241218/0Awsec7o/2000kb/hls/index.m3u8
 #----------------------Hành Tinh Cát-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 1
+#EXTINF:-1 tvg-id="1" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 1
 https://rpcfilm.cdnfly.click/hls/xFc+qE2VK61vG1ErVKMkb2N84VutL9xrxUh9BXX5OJP4cOFUQYcxmrr-ILkmZzEzz-vip86cCwGQYEphdu1GBQ==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 2
+#EXTINF:-1 tvg-id="1" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 2
 https://rpcfilm.cdnfly.click/hls/k+Gimbmg9O-o5L-38cwEmtGw3HUh4rYtHRwu+VqFJyMMMjn2K106gLyDiQ85fDWVfzMWJ65Op9gBqIKB1q91MA==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 3
+#EXTINF:-1 tvg-id="1" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 3
 https://rpcfilm.cdnfly.click/hls/2OwchQ9paMoX9YnyRRUbcdMucyqlw0goK0YNNPLoVvGBAPaqQQpV+fUw+qgoAtNbWENOcMBWyKyq3x-G97gCWw==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 4
+#EXTINF:-1 tvg-id="1" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 4
 https://rpcfilm.cdnfly.click/hls/Yb8jTOQ48D0WdUkAU06n4PnbGWNhwS-TRkrK3cZttPYuKbG0SufNAPexDyEcWd9AScNYAwhQ0BISLUlxvt3DBw==/h264/index-f1-v1-a1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 5
+#EXTINF:-1 tvg-id="1" group-title="Hành Tinh Cát: Lời Tiên Tri" tvg-logo="https://yeuphim.cc/storage/images/hanh-tinh-cat-loi-tien-tri/f490c695998243e5586896a50a7b19ab.jpg", Hành Tinh Cát 5
 https://s4.phim1280.tv/20241216/u3xr7BK5/2000kb/hls/index.m3u8
 
 #----------------------HALO-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 1
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240301/NJI7gbOI/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 2
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240301/hUXxs98Q/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 3
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240301/dUarVxj2/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 4
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240301/QFhlyMyv/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 5
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240402/vDF6FZ9r/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 6
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240402/xWsswP1B/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 7
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240402/wOQAVPyz/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 8
+#EXTINF:-1 tvg-id="1" group-title="HALO II" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", HaLo 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240402/cPUAVMxr/3000kb/hls/index.m3u8
 
 #----------------------Vũ Trụ Xa Lạ-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 1
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240228/7BOO1JQB/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 2
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240228/m0K5kOAo/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 3
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240228/03Xuu8Ci/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 4
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240229/EOniVTRT/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 5
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240309/sOLhIqL3/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 6
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240315/3NJ3Avcl/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 7
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240323/kLub0tVM/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 8
+#EXTINF:-1 tvg-id="1" group-title="Vũ Trụ Xa Lạ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Vũ Trụ Xa Lạ 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240402/NbiWdWan/3000kb/hls/index.m3u8
 #----------------------Xác Sống-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 1
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240305/U8gaN8Rp/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 2
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s2.phim1280.tv/20240305/Yh5d3kgb/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 3
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s1.phim1280.tv/20240313/PuUENjKa/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 4
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240320/AAPZc73b/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 5
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240330/zW1xXrjk/3000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 6
+#EXTINF:-1 tvg-id="1" group-title="Xác Sống" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Xác Sống 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://s3.phim1280.tv/20240404/i6dtVeO2/1000kb/hls/index.m3u8
 
 #----------------------La Palma-------------------#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 1
+#EXTINF:-1 tvg-id="1" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 1
 #https://vip.opstream15.com/20241214/45289_36b14516/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 2
+#EXTINF:-1 tvg-id="1" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 2
 #https://vip.opstream15.com/20241214/45290_f2dfb1d3/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 3
+#EXTINF:-1 tvg-id="1" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 3
 #https://vip.opstream15.com/20241214/45291_9e047096/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 4
+#EXTINF:-1 tvg-id="1" group-title="La Palma" tvg-logo="https://static.nutscdn.com/vimg/300-0/8d6d8e4f175ed7ba6ee084919d1f5ac7.jpg", La Palma 4
 #https://vip.opstream15.com/20241214/45292_ebc27851/3000k/hls/mixed.m3u8
 #----------------------Độc Đạo-------------------#
 
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 1
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240912/eFuKghi9/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 2
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240912/hQpMyy2T/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 3
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgo-vods.vtvdigital.vn/q-b-bj5TyzSE3DYMcoIOGg/1732127096/vod/20240904/DOCDAO-TAP03-THACH-QC.mp4/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 4
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240912/ntc4SBY8/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 5
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240912/HwTq1EWg/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 6
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240912/2ZPxt55a/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 7
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20240917/TQOCUjyy/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 8
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20240918/Gou9LAIo/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 9
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240919/qALQAGd5/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 10
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240924/vjknZ9WK/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 11
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240926/vosdJjfN/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 12
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20240926/wQSmEcMi/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 13
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241001/nORcrE2x/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 14
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241002/HDl9vTlr/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 15
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241003/nJc6L6AX/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 16
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241008/Hf5BBTa6/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 17
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241009/wspO8U9u/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 18
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241010/7oLTXu3o/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 19
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241015/fpWEaj9h/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 20
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241016/MpY9wgOj/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 21
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241017/R4EzWn9H/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 22
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241022/HOiMx9Wi/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 23
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241023/NviLHRwB/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 24
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241024/M0gHBAJD/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 25
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241029/vtw7y7ZJ/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 26
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241030/WAioYedx/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 27
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241031/mJeEwdNx/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 28
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241104/trOtqpLf/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 29
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241106/I060h5FF/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 30
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241107/AP7YgJcW/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 31
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241112/AJ3VeIkQ/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 32
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241113/EkbJwHvd/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 33
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241114/m27tEjqO/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 34
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241119/epXApUbD/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 35
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s4.phim1280.tv/20241120/lFqrYgFo/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 36
+#EXTINF:-1 tvg-id="1" group-title="Độc Đạo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Độc Đạo 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s5.phim1280.tv/20241121/tKWdvSsO/2000kb/hls/index.m3u8
 
