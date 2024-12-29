@@ -250,45 +250,86 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Bát Giới
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/momhd2/chunklist.m3u8
+#https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/momhd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngộ Không
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phanghd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/phanghd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Đường Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phuhd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/phuhd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Sa Tăng
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/taohd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/taohd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Bach Long Mã
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/bachlongmahd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/bachlongmahd2/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngưu Ma Vương
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Hồng Hà Nhi
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/honghanhihd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/honghanhihd2/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Lấy Kinh TV", BLV Nhị Lang Thần
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8
+#https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Na Tra
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+#https://0gwhnhcjagazdnqbafa3drctpqf4gg3dqf3sg17ufqp48r3mbpi1zkhux.wslivehls.com/qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8?wsSession=5cf87812c4c7845b2f6d88b4-173547127433632&wsIPSercert=e126097fb071c571ca1a49c3dbdf2594&wsiphost=local&wsBindIP=1
+https://179939170.vipcdnlive.xyz/live/natrahd2/chunklist.m3u8
+
+#---------------RA KHOI------------------#
+
+#EXTINF:-1 group-title="RAKHOI", BLV ROY
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+#https://moveonone-fa66f150f5.moveon.one/ef7286d62889c4106a375ba6d5e2c66b/1728257332955/channel-1/channel-1.m3u8
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001728214770-0-0-6eb87217bf58bfb191e808eca02b48ea
+
+#EXTINF:-1 group-title="RAKHOI", BLV KEN
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001728213875-0-0-abea09de0037a8e378966141840b6b89
+
+#EXTINF:-1 group-title="RAKHOI", BLV KEVIN
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001728213875-0-0-abea09de0037a8e378966141840b6b89
+
+#EXTINF:-1 group-title="RAKHOI", BLV ALEX
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+#https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001728213936-0-0-0c5cf150463f246c61191306035cf777
+https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001735471675-0-0-5e68462ac847b080ac37677bc125e7b5
+
+#EXTINF:-1 group-title="RAKHOI", BLV POLO
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://moveonone-fa66f150f5.moveon.one/64c67fa6e6c33a59139adc5961d70bc1/1728257242655/channel-10/index.m3u8
+
+#EXTINF:-1 group-title="RAKHOI", BLV MAX
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://moveonone-fa66f150f5.moveon.one/4e019f85b2fbdb0df9e95a5a2b93f4ea/1728257364473/channel-6/index.m3u8
+
+#EXTINF:-1 group-title="RAKHOI", BLV ZIZU
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001728214500-0-0-faf9fc913a8fef26035e8876e5f8985e
+
+#EXTINF:-1 group-title="RAKHOI", BLV HENRY
+#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001728214654-0-0-519b8123185ca057fe4a3d5b945293aa
 
 #---------------SOCOLA------------------#
 
@@ -359,38 +400,3 @@ https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key\u003d1728357266-0-
 #EXTINF:-1 group-title="SOCOLA", BLV PIRLO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key\u003d1728357266-0-0-803e07d42de4ec4da00f204ba57805fb
-
-#---------------RA KHOI------------------#
-
-#EXTINF:-1 group-title="RAKHOI", BLV ROY
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-#https://moveonone-fa66f150f5.moveon.one/ef7286d62889c4106a375ba6d5e2c66b/1728257332955/channel-1/channel-1.m3u8
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001728214770-0-0-6eb87217bf58bfb191e808eca02b48ea
-
-#EXTINF:-1 group-title="RAKHOI", BLV KEN
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001728213875-0-0-abea09de0037a8e378966141840b6b89
-
-#EXTINF:-1 group-title="RAKHOI", BLV KEVIN
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001728213875-0-0-abea09de0037a8e378966141840b6b89
-
-#EXTINF:-1 group-title="RAKHOI", BLV ALEX
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001728213936-0-0-0c5cf150463f246c61191306035cf777
-
-#EXTINF:-1 group-title="RAKHOI", BLV POLO
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://moveonone-fa66f150f5.moveon.one/64c67fa6e6c33a59139adc5961d70bc1/1728257242655/channel-10/index.m3u8
-
-#EXTINF:-1 group-title="RAKHOI", BLV MAX
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://moveonone-fa66f150f5.moveon.one/4e019f85b2fbdb0df9e95a5a2b93f4ea/1728257364473/channel-6/index.m3u8
-
-#EXTINF:-1 group-title="RAKHOI", BLV ZIZU
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001728214500-0-0-faf9fc913a8fef26035e8876e5f8985e
-
-#EXTINF:-1 group-title="RAKHOI", BLV HENRY
-#EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001728214654-0-0-519b8123185ca057fe4a3d5b945293aa
