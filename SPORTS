@@ -83,6 +83,10 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8
 
+#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Heo
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
+
 #EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Bịp
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
@@ -106,10 +110,6 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8
 #EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Lú
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Heo
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Cỏ
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -157,7 +157,7 @@ http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=gaKQq7X
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=cHrWKMY
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Thịt Xiên
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/su5rROGwhw1mD1eRyKO2FA/Fv2lucGIbhPi2caWYvF5Lg/1727648031152/live/xienHD/chunklist.m3u8
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=USphPsh
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Mỳ Tôm
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=n8iHXxe
@@ -178,7 +178,7 @@ http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=QnJHR3p
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=wvAz3wU
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Người Húc
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=xrJ0KfH
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=vZrTn10
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Trâu Gác Bếp
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=aDuI119
@@ -244,7 +244,7 @@ https://obevcimanyd179569584.thapcam.link/kt8tkjfBzsYSgk_gpUWlDA/Fv2lucGIbhPi2ca
 https://oisoxu179569584.akainu.xyz/QcaSj-0jDb84EwIEq4g7Bw/Fv2lucGIbhPi2caWYvF5Lg/1734903291511/live/lungHD/chunklist.m3u8
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Lơ Đao
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://oisoxu179569584.akainu.xyz/zMywGyH0qgT56NIbZMTzag/Fv2lucGIbhPi2caWYvF5Lg/1734902570829/live/daoHD/chunklist.m3u8
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=96aB9bC
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", BLV Người Cây
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=DFk2iwk
@@ -268,10 +268,10 @@ https://obevcimanyd179026907.akainu.xyz/lsbVv4FkXiV0ZAlKj6eEYw/Fv2lucGIbhPi2caWY
 https://obevcimanyd179591709.thapcam.link/H8kNeA_u5Qg9SjNl0T-_zA/Fv2lucGIbhPi2caWYvF5Lg/1728322629208/live/may11/chunklist.m3u8
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", May17
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/tuEPaOOxtfro6KFw27Li2w/Fv2lucGIbhPi2caWYvF5Lg/1727788591188/live/may17/chunklist.m3u8
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=vloQKKA
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", May20
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=Dv0MAm8
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=zz7oEQr
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", May21
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=BaDgssc
@@ -280,7 +280,7 @@ http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=BaDgssc
 https://obevcimanyd179591709.thapcam.link/iVgzfoAFoPiewywj0qdJvw/Fv2lucGIbhPi2caWYvF5Lg/1733240953882/live/may201/chunklist.m3u8
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", May24
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=s6s1uUc
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=Kbfu7bC
 #EXTINF:-1 group-title="Thập Cẩm TV",tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam.png", May25
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179026907.akainu.xyz/wUPNzuPolv6EXmcUAX9zGQ/Fv2lucGIbhPi2caWYvF5Lg/1734306258101/live/may25/chunklist.m3u8
