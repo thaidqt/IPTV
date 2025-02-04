@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml";
 #----------------------Phim Lẻ-------------------#
-
+#EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://mihanoi.vn/wp-content/uploads/2024/12/tao-quan-2025-1.jpg", Gặp Nhau Cuối Năm
+https://vtvgo-vods.vtvdigital.vn/mX4dQro_wDw-BnM9GRwmpw/1738845617/vod/20250128/TAOQUAN2025_BANFULL_TKBT.mp4/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WbIpntvSI1a9PKsmtTWezMTye6JeUc7dw&s", Quái Vật Lòng Đất
 https://s5.phim1280.tv/20241204/pvKZw0UO/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/anh-hung-huyen-thoai/5f08e35710979011ac6d112ec5bfd141.jpg", Anh Hùng Huyền Thoại
