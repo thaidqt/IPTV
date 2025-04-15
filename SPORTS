@@ -38,6 +38,50 @@ https://hotlivezz179536519.akainu.xyz/live/baoHD.flv?expire=1744708283&sign=dfcc
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1744711303&sign=4f0b375f2839c67c43936a770898623f
 
+#---------------Lấy Kinh TV------------------#
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bát Giới
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/momhd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngộ Không
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/phanghd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Đường Tăng
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/phuhd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Sa Tăng
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/taohd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bach Long Mã
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/bachlongmahd2/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngưu Ma Vương
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Hồng Hà Nhi
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/honghanhihd2/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Lấy Kinh TV", BLV Nhị Lang Thần
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
+#https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8
+
 
 
 #---------------CA KHIA (https://cakhiaaz.com/)------------------#
@@ -100,49 +144,6 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8
 
 
 
-#---------------Lấy Kinh TV------------------#
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bát Giới
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/momhd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngộ Không
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phanghd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Đường Tăng
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phuhd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Sa Tăng
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/taohd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bach Long Mã
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/bachlongmahd2/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngưu Ma Vương
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Hồng Hà Nhi
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/honghanhihd2/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Nhị Lang Thần
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8
 
 #---------------SOCOLA------------------#
 
