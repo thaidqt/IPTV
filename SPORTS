@@ -1,155 +1,61 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml";
 
-#---------------Phim------------------#
-#EXTINF:-1 tvg-id="hbohd" group-title="Phim Quốc Tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://125hvt.ddns.net:21585/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="axnhd" group-title="Phim Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://125hvt.ddns.net:21585/axn/index.m3u8
-
 
 #---------------Thập Cẩm TV------------------#
-#EXTINF:-1 group-title="Thập Cẩm TV", Máy Cá Cờ
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1744708110&sign=6569c221ca96cda5b0c0cf0d2a557aa1
-#EXTINF:-1 group-title="Thập Cẩm TV", Máy Z2
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1744708335&sign=dea09389163d0162b06a20493a9ad4bd
-#EXTINF:-1 group-title="Thập Cẩm TV", Mỳ Tôm
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1745922008&sign=19d46ae95dcad395788f5918725809f1
-#EXTINF:-1 group-title="Thập Cẩm TV", Bánh Cuốn
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1745922008&sign=f86e41c0fc915be8e2ed2e0dc3bb5742
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Đá
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daHD.flv?expire=1744708486&sign=200a2f1b58a3d58c6513906d439465c3
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Báo
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/baoHD.flv?expire=1744708283&sign=dfcc44ae3ba8e719898e98b4ae141c24
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Cây
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cayHD.flv?expire=1745922357&sign=5dd4b8a08ad0a7880c71a1d291a59c30
-#EXTINF:-1 group-title="Thập Cẩm TV", Cá Hề
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1744967154&sign=f30526e537896e2a263227e2de488c3a
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Dưng
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1745922715&sign=a786bd4c66408dee40d2809409c8ac92
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", Người Rừng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aeb2e76b8f3_148/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", Người Giời
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aeadab6b8f3_14/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aeafba6b8f3_35/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", Người Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aeb10b2f935_1948/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV CAPTAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aebdbd2f935_157/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV Gà Siêu Bướng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aec7c82f935_151/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV Cá Mập
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aec85d6b8f3_154/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV Người Trẻ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aec8576b8f3_1210/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV Bún Cá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aec4e32f935_142/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ThapCamFake", BLV Bún Riêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.phogatv8.com/live/69aeccff2f935_742/index.m3u8
 
 #---------------Lấy Kinh TV------------------#
 
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bát Giới
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtugw.wslivehls.com/qtcdn.livestreameuro.live/live/momhd1/playlist.m3u8?wsSession=1460f96a140808bd83f09a43-173201778076368&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/momhd2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="HoaDaoTV", BLV Pháo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live1.footballvideocdn20xx.org/live/phao_key.flv
 
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngộ Không
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phanghd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Đường Tăng
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/phuhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/phuhd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Sa Tăng
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/taohd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/taohd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Bach Long Mã
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/bachlongmahd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/bachlongmahd2/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Ngưu Ma Vương
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Hồng Hà Nhi
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/honghanhihd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/honghanhihd2/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Lấy Kinh TV", BLV Nhị Lang Thần
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://6grauqmtofaauomtu8r.wslivehls.com/qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8?wsSession=dba3be34949cbd3beca62846-173201795587657&wsIPSercert=48f6919adb65d1fd0e2b94222ec4c8ff&wsiphost=local&wsBindIP=1
-#https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8
-
-
-
-#---------------CA KHIA (https://cakhiaaz.com/)------------------#
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Phò
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cakhiahd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Lử
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Bịp
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Cay
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Sún
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Páo
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Chuối
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Lú
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Lôi
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Heo
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Giàng A Cỏ
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV H+
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Thợ Lặn
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/chunklist.m3u8
-
-#EXTINF:-1 group-title="Cà Khịa TV", BLV Thợ Xây
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" group-title="BunChaTV", BLV Bún Đậu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69aeb501326d7_28/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BunChaTV", BLV Lucky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69aeb667326d7_72787/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BunChaTV", BLV Giữ Lửa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69aec366326d7_88642/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BunChaTV", BLV Gà Nướng Lu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69aebd42326d7_44731/index.m3u8
 
 #---------------SOCOLA------------------#
 
 
-#EXTINF:-1 group-title="SOCOLA", BLV DECO
+#EXTINF:-1 group-title="SOCOLA", BLV ZIDANE
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key\u003d1728353015-0-0-aa357616de3071afc7bb3f0ca9cd2919
 #EXTINF:-1 group-title="SOCOLA", BLV SINGER
@@ -184,7 +90,8 @@ https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key\u003d1728310346-0-0
 https://pull.niues.live/live/stream-488346_lhd.m3u8?auth_key\u003d1728356966-0-0-ce6ad400f586ad0f75a6704069248b53
 #EXTINF:-1 group-title="SOCOLA", BLV A Páo
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key\u003d1728310406-0-0-1a5fda40c5893e3d4f96f16e74f63564
+#https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key\u003d1728310406-0-0-1a5fda40c5893e3d4f96f16e74f63564
+https://pull.niues.live/live/stream-235232_lhd.m3u8
 #EXTINF:-1 group-title="SOCOLA", BLV TAP
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key\u003d1728310586-0-0-0fe7b94d25d24fb6cce7978d52fc79b2
