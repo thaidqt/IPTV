@@ -1,4 +1,23 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml";
+#----------------------Phim HH3D-------------------#
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 71-80
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/7290fbb6-8a2c-4478-a3f3-d2cbb164e82d.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 81-90
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/b4fe95f5-8af8-46ac-80f0-68551b32e6d6.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 91-100
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/2c0c3eec-9c1f-4344-9155-80e692546ab0.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 101-110
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/ad0813e0-f92f-4061-bb99-7043df3a6883.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 111-120
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/f93d22e6-89e3-4af1-8ee1-c8d01bf17d5c.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 121-130
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/7a1da0d6-12a6-4537-9b70-1ad2de06e80e.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 131-135
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/292292a3-34db-44d5-acd5-f6cb9c14732a.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Thôn Phệ Tinh Không" tvg-logo="https://yanhh3d.nl/storage/movies/thon-phe-tinh-khong-1782129200.jpg", Thôn Phệ Tinh Không 136
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c3014813-d182-446a-8c64-a32eb6bd12e7.m3u8
+
+
 #----------------------Phim Lẻ-------------------#
 #EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://phimmoie.app/storage/images/saccharine/saccharine-thumb.webp", Saccharine: KD Hàn Quốc
 https://v7.kkphimplayer7.com/20260625/yYZT4WmD/3500kb/hls/index.m3u8
